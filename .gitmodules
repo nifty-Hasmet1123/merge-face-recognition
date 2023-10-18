@@ -1,0 +1,6 @@
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/nifty-Hasmet1123/face-recognition.git
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/nifty-Hasmet1123/face-recognition-api.git
